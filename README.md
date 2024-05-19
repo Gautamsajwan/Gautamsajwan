@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Gautamsajwan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Hello, my name is Gautam Sajwan, a software engineer 👨🏻‍💻 with a passion for building scalable and efficient solutions that solve real-world problems. My passion lies in leveraging technology and coding to innovate and solve real-world problems. With a keen interest in Software Development, I have gained extensive experience in frontend and backend technologies/frameworks over time. Additionally, I possess strong skills in Data Structures and Algorithms, enabling me to efficiently tackle complex problems. I am deeply committed to continuous learning and growth, always seeking new opportunities to expand my knowledge and expertise.
+Hello, my name is Gautam Sajwan, a software engineer 👨🏻‍💻 with a passion in leveraging technology and coding for building scalable and efficient solutions that solve real-world problems. With a keen interest in Software Development, I have gained extensive experience in frontend and backend technologies/frameworks over time. Additionally, I possess strong skills in Data Structures and Algorithms, enabling me to efficiently tackle complex problems with a structured intuition. I am deeply committed to continuous learning and growth, always seeking new opportunities to expand my knowledge and expertise.
 
 - 👨‍💻 All of my projects are available at [https://gautam-portfolio-flax.vercel.app/](https://gautam-portfolio-flax.vercel.app/)
 
